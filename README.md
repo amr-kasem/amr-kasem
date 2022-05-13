@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amr Usama Kasem
 - 👀 I’m interested in Deep Learning, Mobile Application Development, Front End Web Development, Robot Operating System, IoT and Embedded Systems.
-- 🌱 I’m currently learning Deep Learning and Flutter.
+- 🌱 I’m currently a Deep Learning Engineer as well as a senior Flutter Developer.
 - 📫 Reach me on Linkedin http://wwww.linkedin.com/in/amr-kasem-9bb018205
 
 <!---
