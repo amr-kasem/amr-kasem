@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mariam
+- 👋 Hi, I’m Amr
 - 👀 I’m interested in Mobile, Desktop and TV Application Development, Robot Operating System, IoT and Embedded Systems.
 - 🌱 I’m currently a senior Flutter Developer.
   
